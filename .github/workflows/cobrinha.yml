@@ -23,17 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Generate Stats
-        uses: lowlighter/metrics@latest
-        with:
-          # Configuração dos parâmetros
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: FernandinOficial
-          base: header,commits,prs,issues,contribs,stars,followers,releases
-  
