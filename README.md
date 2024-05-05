@@ -1,7 +1,11 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)
-### Olá, seja Bem-Vindo(a) 👋
+## Olá, seja Bem-Vindo(a) 👋
+![Fernandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinOficial&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dracula)
 
-Aqui estão algumas ideias para começar:
+### Portfólio
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandinOficial&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/Portfolio/github-readme-stats)
+#### Sobre mim:
 
 - 🔭 Atualmente estou disponível para trabalho
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, PHP, SQL
