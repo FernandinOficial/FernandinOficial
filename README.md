@@ -13,3 +13,5 @@
 - 🤔 Estou buscando ajuda com pessoas que tenham conhecimento com C# e SQL
 - 📫 Como me contatar: fernandoribeirooficial123@gmail.com
 - ⚡ Curiosidade: Gosto de fazer jogos e programar em tempo livre...
+
+![Snake animation](https://github.com/FernandinOficial/FernandinOficial/blob/output/github-contribution-grid-snake.svg)
