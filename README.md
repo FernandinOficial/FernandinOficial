@@ -15,3 +15,4 @@
 - ⚡ Curiosidade: Gosto de fazer jogos e programar em tempo livre...
 
 ![Snake animation](https://github.com/FernandinOficial/FernandinOficial/blob/output/github-contribution-grid-snake.svg)
+
