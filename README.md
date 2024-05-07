@@ -1,7 +1,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)
 ## Olá, seja Bem-Vindo(a) 👋
 ![Fernandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinOficial&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dracula)
 
 ### Portfólio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandinOficial&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/Portfolio/github-readme-stats)
