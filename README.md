@@ -1,5 +1,8 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)
 ## Olá, seja Bem-Vindo(a) 👋
+
+![bro-code-console (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/9af6869c-7b73-43f4-a574-11fa20b32d7b)
+
 ![Fernandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinOficial&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dark)
 
