@@ -1,8 +1,9 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)           ![symbol-code (3)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/b5f2e50d-b185-42a8-b6c7-adc1373c5763)
+![matrix-the-matrix (1)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/a183928d-6e88-4589-aa87-6f6e903d8d9b)   ![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)           ![symbol-code (3)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/b5f2e50d-b185-42a8-b6c7-adc1373c5763)
 
 ## Olá, seja Bem-Vindo(a) 👋
 
-
+![kek-angry](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/a1033145-ad77-4e7f-8e16-d4cbc42931b8)
+![soulja-boy-pepe (1)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/0ab6a451-3c31-498f-966c-44930b2c57b9)
 
 ![Fernandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinOficial&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dark)
