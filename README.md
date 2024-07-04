@@ -1,6 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)
-
-![symbol-code (3)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/b5f2e50d-b185-42a8-b6c7-adc1373c5763)
+![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)           ![symbol-code (3)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/b5f2e50d-b185-42a8-b6c7-adc1373c5763)
 
 ## Olá, seja Bem-Vindo(a) 👋
 
