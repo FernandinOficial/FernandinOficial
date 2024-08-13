@@ -16,7 +16,7 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, PHP, SQL
 - 👯 Estou em colaboração com *Prismidium Studios*
 - 🤔 Estou buscando ajuda com pessoas que tenham conhecimento com C# e SQL
-- 📫 Como me contatar: fernandoribeirooficial123@gmail.com
+- 📫 Como me contatar: fernando.furibeiro@gmail.com
 - ⚡ Curiosidade: Gosto de fazer jogos e programar em tempo livre...
 
 
