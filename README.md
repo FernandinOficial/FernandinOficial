@@ -13,10 +13,10 @@
 #### Sobre mim:
 
 - 🔭 Atualmente estou disponível para trabalho
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, PHP, SQL
+- 🌱 Atualmente estou aprendendo JavaScript, PHP, C#
 - 👯 Estou em colaboração com *Prismidium Studios*
 - 🤔 Estou buscando ajuda com pessoas que tenham conhecimento com C# e SQL
-- 📫 Como me contatar: fernando.furibeiro@gmail.com
+- 📫 Como me contatar: fernando.furibeiro@outlook.com
 - ⚡ Curiosidade: Gosto de fazer jogos e programar em tempo livre...
 
 
