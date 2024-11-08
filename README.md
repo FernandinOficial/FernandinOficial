@@ -9,7 +9,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dark)
 
 ### Portfólio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandinOficial&repo=portfolio&show_icons=true&theme=tokyonight)](https://github.com/Portfolio/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandinOficial&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/FernandinOficial/Portfolio)
+
 #### Sobre mim:
 
 - 🔭 Atualmente estou disponível para trabalho
